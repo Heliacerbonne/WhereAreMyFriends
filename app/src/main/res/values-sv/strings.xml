@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Var är mina vänner ?</string>
+    <string name="login">Logga in</string>
+    <string name="enter_name">Ange ditt namn</string>
+    <string name="create_group">SKAPA EN GRUPP</string>
+    <string name="manage_group">HANTERA GRUPPER</string>
+    <string name="join_group">DELTA I EN GRUPP</string>
+    <string name="leave_group">LÄMNA EN GRUPP</string>
+    <string name="enter_gname">Ange ett gruppnamn</string>
+    <string name="select_language">Välj ett språk</string>
+    <string name="settings">Inställningar</string>
+    <string name="greet_group">Hej %1$s! Du är i grupp %2$s.</string>
+    <string name="greet_nogroup">Hej %1$s! Skapa och delta i en grupp !</string>
+</resources>
